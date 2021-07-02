@@ -1,0 +1,8 @@
+numpy==1.20.2
+bokeh==2.3.2
+altair==4.1.0
+plotnine==0.8.0
+matplotlib==3.3.4
+h5py==3.2.1
+# Ensure Jupyter notebook
+jupyter~=1.0

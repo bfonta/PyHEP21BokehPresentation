@@ -1,0 +1,10 @@
+name: PyHEP21
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - plotnine
+  - altair
+  - bokeh
+  - h5py
+prefix: /home/bruno/miniconda3/envs/PyHEP21
