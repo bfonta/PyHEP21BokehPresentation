@@ -1,6 +1,6 @@
 [Presentation](https://indico.cern.ch/event/1019958/contributions/4420290/) given at PyHEP21.
 
-!! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b-fontana/PyHEP21BokehPresentation/HEAD?urlpath=lab/tree/Motivation.ipynb)
+<!---  # [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b-fontana/PyHEP21BokehPresentation/HEAD?urlpath=lab/tree/Motivation.ipynb) --->
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b-fontana/PyHEP21BokehPresentation/HEAD)
 
