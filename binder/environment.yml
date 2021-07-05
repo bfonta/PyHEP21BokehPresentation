@@ -7,4 +7,5 @@ dependencies:
   - altair
   - bokeh
   - h5py
+  - hvplot
 prefix: /home/bruno/miniconda3/envs/PyHEP21

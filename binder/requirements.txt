@@ -4,5 +4,6 @@ altair==4.1.0
 plotnine==0.8.0
 matplotlib==3.3.4
 h5py==3.2.1
+hvplot==0.7.2
 # Ensure Jupyter notebook
 jupyter~=1.0
