@@ -4,7 +4,3 @@
 
 layout: home
 ---
-
-The following visualization was [easily embedded](https://raw.githubusercontent.com/b-fontana/PyHEP21BokehPresentation/gh-pages/index.markdown).
-
-{% include spectra.html %}
