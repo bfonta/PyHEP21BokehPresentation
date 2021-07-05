@@ -4,3 +4,5 @@
 
 layout: default
 ---
+
+HTML output coming from ```bokeh``` can be easily embedded into a website!
