@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Test
+title:  Post title
 date:   2021-07-05
 categories: news
 ---
