@@ -11,4 +11,6 @@ The material includes three notebooks:
 - ```InteractivePlotting.ipynb```: how to perform interactions with ```bokeh```
 - ```CustomExample1.ipynb```: example of exploratory data analysis
 
-An additional example (```CustomExample2.py```, referring to astrophysical spectra generation) is provided in pure ```python``` format only given its large size. To visualize its output click [here](https://b-fontana.github.io/).
+An additional example (```CustomExample2.py```, referring to astrophysical spectra generation) is provided in pure ```python``` format only given its large size. To visualize its output click [here](https://b-fontana.github.io/PyHEP21BokehPresentation/SpectraGeneration/).
+
+Bokeh plots can be easily embedded into websites: see another example [here](https://b-fontana.github.io/PyHEP21BokehPresentation/ExploreData/).
