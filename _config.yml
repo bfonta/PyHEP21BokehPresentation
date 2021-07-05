@@ -22,8 +22,8 @@ title: Tutorial @ PyHEP 2021
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We discuss and justify the application of Python's Bokeh library to non-interactive and interactive visualization. A comparison between Bokeh and some widely used alternatives is made. We include a tutorial covering the key aspects necessary to create virtually any interactive plot needed in HEP, and provide custom examples and code.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /PyHEP21BokehPresentation # the subpath of your site, e.g. /blog
+url: https://b-fontana.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  b-fontana
 
