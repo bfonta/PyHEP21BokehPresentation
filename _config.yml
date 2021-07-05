@@ -28,8 +28,8 @@ url: https://b-fontana.github.io # the base hostname & protocol for your site, e
 github_username:  b-fontana
 
 # Build settings
-# theme: jekyll-theme-slate
-theme: minima
+theme: jekyll-theme-slate
+# theme: minima
 plugins:
   - jekyll-feed
 
