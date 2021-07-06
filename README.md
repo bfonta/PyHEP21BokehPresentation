@@ -11,6 +11,12 @@ The material includes three notebooks:
 - ```InteractivePlotting.ipynb```: how to perform interactions with ```bokeh```
 - ```CustomExample1.ipynb```: example of exploratory data analysis
 
-An additional example (```CustomExample2.py```, referring to astrophysical spectra generation) is provided in pure ```python``` format only given its large size. To visualize its output click [here](https://b-fontana.github.io/PyHEP21BokehPresentation/SpectraGeneration/).
-
-Bokeh plots can be easily embedded into websites: see another example [here](https://b-fontana.github.io/PyHEP21BokehPresentation/ExploreData/).
+Plot embedding: ```bokeh``` plots can be easily embedded into websites
+ - see the tutorial example [here](https://b-fontana.github.io/PyHEP21BokehPresentation/ExploreData/).
+ - an additional example (```CustomExample2.py```, referring to astrophysical spectra generation) is provided in pure ```python``` format only given its large size. To visualize its output click [here](https://b-fontana.github.io/PyHEP21BokehPresentation/SpectraGeneration/).
+ - many great examples by the [active ```bokeh``` community](https://discourse.bokeh.org/):
+     - [Bioinformatics](https://pirovc.github.io/grimer-reports/others/placenta_wgs.html)
+     - [COVID interactive paper](https://jacob-barhak.github.io/COVID19_Ensemble_2021.html)
+     - [Fitness](https://hnagib.com/)
+     - [Mortality rates](https://cjdixon.s3-ap-southeast-2.amazonaws.com/bokeh/mortality_rates.html)
+     - [Simple simulation](https://polyas-urn.herokuapp.com/app)
