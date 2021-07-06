@@ -11,7 +11,9 @@ The material includes three notebooks:
 - ```InteractivePlotting.ipynb```: how to perform interactions with ```bokeh```
 - ```CustomExample1.ipynb```: example of exploratory data analysis
 
-Plot embedding: ```bokeh``` plots can be easily embedded into websites
+-------
+
+Plot embedding: ```bokeh``` plots can be easily embedded into websites:
  - see the tutorial example [here](https://b-fontana.github.io/PyHEP21BokehPresentation/ExploreData/).
  - an additional example (```CustomExample2.py```, referring to astrophysical spectra generation) is provided in pure ```python``` format only given its large size. To visualize its output click [here](https://b-fontana.github.io/PyHEP21BokehPresentation/SpectraGeneration/).
  - many great examples by the [active ```bokeh``` community](https://discourse.bokeh.org/):
