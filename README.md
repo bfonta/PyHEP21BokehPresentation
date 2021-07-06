@@ -1,6 +1,6 @@
 [Tutorial](https://indico.cern.ch/event/1019958/contributions/4420290/) given at PyHEP21 on July 6th, 14:30 CEST.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b-fontana/PyHEP21BokehPresentation/HEAD?urlpath=lab/tree/Motivation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b-fontana/PyHEP21BokehPresentation/HEAD?urlpath=lab/tree/Motivation.ipynb) [![DOI](https://zenodo.org/badge/380001262.svg)](https://zenodo.org/badge/latestdoi/380001262)
 
 <!---  # [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/b-fontana/PyHEP21BokehPresentation/HEAD) --->
 
